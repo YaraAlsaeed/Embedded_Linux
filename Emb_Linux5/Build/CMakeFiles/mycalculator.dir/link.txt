@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mycalculator.dir/main.c.o -o mycalculator  Libs/liboperations.a 

@@ -1,0 +1,6 @@
+/home/yara/ITI_Linux/tasks/Emb_Linux5/Build/CMakeFiles/mycalculator.dir
+/home/yara/ITI_Linux/tasks/Emb_Linux5/Build/CMakeFiles/edit_cache.dir
+/home/yara/ITI_Linux/tasks/Emb_Linux5/Build/CMakeFiles/rebuild_cache.dir
+/home/yara/ITI_Linux/tasks/Emb_Linux5/Build/Libs/CMakeFiles/operations.dir
+/home/yara/ITI_Linux/tasks/Emb_Linux5/Build/Libs/CMakeFiles/edit_cache.dir
+/home/yara/ITI_Linux/tasks/Emb_Linux5/Build/Libs/CMakeFiles/rebuild_cache.dir
